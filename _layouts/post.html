@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<!-- Blog entry -->
+<div class="w3-card-4 w3-margin w3-white" id="{{ page.post_id }}">
+{% if page.header_image %}
+  <img src="{{ site.baseurl }}/assets/images/{{ page.header_image }}" style="width:100%">
+{% endif %}
+  <div class="w3-container">
+    <h3><b>{{ page.title }}</b></h3>
+    <h5>{{ page.subtitle }} <span class="w3-opacity">{{ page.date | date: "%-d %b %Y" }}</span></h5>
+  </div>
+
+  {{ content }}
+  
+</div>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{ page.title }} - {{ site.title }}</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+.full-width { width: 100%; }
+</style>
+</head>
+<body class="w3-light-grey">
+
+<div class="w3-content" style="max-width:1400px">
+
+<!-- Header -->
+<header class="w3-container w3-center w3-padding-32"> 
+  <h1><b><a href="{{ site.baseurl }}/" style="text-decoration: none; color: inherit;">{{ site.title }}</a></b></h1>
+  <p>{{ site.description }}</p>
+</header>
+
+<!-- Grid -->
+<div class="w3-row">
+
+<!-- Blog entries -->
+<div class="w3-col l8 s12">
+
+{{ content }}
+
+</div>
+
+<!-- Sidebar -->
+<div class="w3-col l4">
+  <!-- About Card -->
+  <div class="w3-card w3-margin w3-margin-top">
+  <img src="{{ site.baseurl }}/assets/images/whois.jpg" style="width:100%">
+    <div class="w3-container w3-white">
+      <h4><b>What is this blog about?</b></h4>
+      <p>Piddubtsi is literally translated as "Under the Oaks". I'm documenting the process of finding, translating, sharing and visualizing records from this little Ukrainian village 
+	  to help others explore their own family history journies.<br>&nbsp;<br>Do you live in Piddubtsi? I would love to <a href="/contact.html">get in touch!</a>
+	  <br>&nbsp;<br>
+	  Слава Україні!
+	  </p>
+    </div>
+  </div><hr>
+  
+  <!-- Posts -->
+  <div class="w3-card w3-margin">
+    <div class="w3-container w3-padding">
+      <h4>Recent Posts</h4>
+    </div>
+    <ul class="w3-ul w3-hoverable w3-white">
+      {% for post in site.posts limit:5 %}
+      <li class="w3-padding-16">
+        <a href="{{ post.url | relative_url }}">
+        <span class="w3-large">{{ post.title }}</span><br>
+        <span>{{ post.subtitle }}</span>
+		</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <hr> 
+
+</div>
+
+</div><br>
+
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-dark-grey w3-padding-32 w3-margin-top">
+I'm happy to answer specific questions about the methods and sources mentioned in this blog. I speak decent Ukrainian, and can help you in both languages. For general genealogical 
+research help, please see the records post.
+</footer>
+
+</body>
+</html>

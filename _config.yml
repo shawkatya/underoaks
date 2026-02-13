@@ -1,0 +1,33 @@
+# Site settings
+title: "Under the Oaks"
+description: "A history of the Ukrainian village Piddubtsi through records, maps and stories"
+url: "https://shawkatya.github.io"
+baseurl: "/underoaks"
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - .git ignore
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
