@@ -10,10 +10,10 @@ post_id: "sample"
 <div class="w3-container">
 <p>I wanted to share a snapshot of what the <a href="underoaks.html#records">records</a> from <a href="https://www.agad.gov.pl/inwentarze/KLwo301new.xml">AGAD</a> look like, and what the database I am digitizing them into looks like. 
 	  </p>
-<p><img src="samplerecord.png" style="width:100%"/>
+<p><img src="{{ site.baseurl }}/assets/images/samplerecord.png" style="width:100%"/>
 	  Sample of birth records from <a href="http://agadd2.home.net.pl/metrykalia/298/sygn.%20245/indeks.htm#7">sygn. 245</a>.
 	  </p>
-<p><img src="sampledata.png" style="width:100%"/>
+<p><img src="{{ site.baseurl }}/assets/images/sampledata.png" style="width:100%"/>
 	  Partial view of same records digitized.
 	  </p>
 <p>
