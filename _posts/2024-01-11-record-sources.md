@@ -7,7 +7,6 @@ header_image: "records.jpg"
 post_id: "records"
 ---
 
-<div class="w3-container">
 <p>A non-exhaustive list of places I have found records relating to Piddubtsi with some notes. Not going to link to Ancesty and Family Search, not much there but worth a first stop.
 	  
 	  <ul>
@@ -19,4 +18,3 @@ post_id: "records"
 <li class="w3-padding-5"><a href="https://www.reddit.com/r/Genealogy/comments/10l87ub/a_long_explainer_for_finding_ukrainian_vital/">Records explainer</a> - a long reddit post about finding records</li>
 </ul>
 </p>
-</div>

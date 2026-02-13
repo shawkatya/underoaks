@@ -7,7 +7,6 @@ header_image: "photos.jpg"
 post_id: "photos"
 ---
 
-<div class="w3-container">
 <p>None of these photos are mine. I will attempt to attribute them, but I'm certain that three are from a blog I read ages ago and can't find again. Help would be appreciated in finding the author/photographer. </p>
 <p>
 <img src="{{ site.baseurl }}/assets/images/palace1.jpg" style="width:100%"/>
@@ -36,4 +35,3 @@ post_id: "photos"
 <p>
 <img src="{{ site.baseurl }}/assets/images/wwi.jpg" style="width:100%"/>
 	  Church damaged after WWI (<a href="https://uk.wikipedia.org/w/index.php?curid=4156116">Wikipedia</a>).</p>
-</div>

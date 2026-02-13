@@ -7,7 +7,6 @@ header_image: "maps.jpg"
 post_id: "maps"
 ---
 
-<div class="w3-container">
 <p>This will be updated on an ongoing basis as I find new views or more historical maps. I will try to identify where each one came from if it's not obvious. </p>
 <p>Piddubtsi is located at approximately 50°21'05.5"N (50.3515400°) 23°42'50.5"E (23.7140200°) in the Chervonohradskyi Raion of the Lviv Oblast. There are other villages with similar names in Volyn, Donetsk, Kivorohrad and Khmelnytsky oblasts. I prefer to call it Piddubtsi, since my grandparents called it that, even though Piddubne is the name found most often.</p>
 <p>The Solokya River runs roughly northeast-southwest to the north the village. The Polish border is approximately 1 km to the west. It has a bus stop at the east end and a rail stop at the west end of Symona Petliury/Vulitsya Prykordonna near the church, although there doesn't appear to be a rail platform. The other main road, going north from Symona Petliura, is Ivana Franka/Vul. Richkova. I'm not sure which names are correct or more recent. There is an unnamed road going south towards the cemetary. Various other tracks and paths crisscross the area.</p>
@@ -43,4 +42,3 @@ The legend states that the soil is "chalk detritus" surrounded by alluvium from 
 <p>
 <img src="{{ site.baseurl }}/assets/images/arcanum.jpg" style="width:100%"/>
 	  Polish map (Arcanum).</p>
-</div>

@@ -7,7 +7,6 @@ header_image: "data.jpg"
 post_id: "sample"
 ---
 
-<div class="w3-container">
 <p>I wanted to share a snapshot of what the <a href="underoaks.html#records">records</a> from <a href="https://www.agad.gov.pl/inwentarze/KLwo301new.xml">AGAD</a> look like, and what the database I am digitizing them into looks like. 
 	  </p>
 <p><img src="{{ site.baseurl }}/assets/images/samplerecord.png" style="width:100%"/>
@@ -24,4 +23,3 @@ post_id: "sample"
 <p>
 	 Finally, <a href="underoaks.html#names">names</a>. Surnames have been entered mostly as written, although I have altered them to collapse gender ("Kaminskyj/Kaminska"), but first names are in Latin. I have mostly left them as written, and will either edit them en masse to a more Ukrainian form ("Romanus/Roman") or will add a column like "ukr_name".
 	 </p>
-</div>

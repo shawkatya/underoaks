@@ -7,7 +7,6 @@ header_image: "main.jpg"
 post_id: "villagename"
 ---
 
-<div class="w3-container">
 <p>A collection of spellings and languages of Piddubtsi to copy/paste into search engines and compare with records. It means "under the oaks" but google translate 
 gave me "underdogs", which I find amusing. As a kid, I heard the name as Піддупці, and was disappointed to learn it wasn't 
 called "underbutt".
@@ -46,4 +45,3 @@ called "underbutt".
 <li class="w3-padding-5">Zadnią Ląką</li>
 </ul>
 </p>
-</div>
