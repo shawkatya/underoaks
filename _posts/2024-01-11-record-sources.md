@@ -16,5 +16,6 @@ post_id: "records"
 <li class="w3-padding-5"><a href="https://www.familysearch.org/en/wiki/Latin_Genealogical_Word_List">Latin word list</a> - helpful reference for records</li>
 <li class="w3-padding-5"><a href="https://collections.arolsen-archives.org/en/search/">Arolsen Archives</a> - POW and DP documents</li>
 <li class="w3-padding-5"><a href="https://www.reddit.com/r/Genealogy/comments/10l87ub/a_long_explainer_for_finding_ukrainian_vital/">Records explainer</a> - a long reddit post about finding records</li>
+<li class="w3-padding-5"><a href="https://doroshheritagetours.com/travel-in-time-visit-a-galician-village-of-the-19th-early-20th-century/">Dorosh Heritage Tours</a> - geneology and tour company in Ukraine, with very informative blogs about village life</li>
 </ul>
 </p>
