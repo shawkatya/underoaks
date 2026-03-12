@@ -9,7 +9,7 @@ post_id: "ukrsample"
 
 <p>A new challenge has presented itself. 
 	  </p>
-<p><img src="{{ site.baseurl }}/assets/images/samplerecord2.png" style="width:100%"/>
+<p><img src="{{ site.baseurl }}/assets/images/sampledata2.png" style="width:100%"/>
 	  Sample of birth records from <a href="http://agadd2.home.net.pl/metrykalia/298/sygn.%20246/indeks.htm#115">sygn. 246</a>.
 	  </p>
 <p>
