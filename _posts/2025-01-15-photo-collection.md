@@ -31,7 +31,7 @@ post_id: "photos"
 	  View down the road (credit unknown!)</p>
 <p>
 <img src="{{ site.baseurl }}/assets/images/blog3.jpg" style="width:100%"/>
-	  Inside the church (credit unknown! This is the Canadian blogger who went to the village. If you are her or know her, please <a href="/contact.html">contact me!</a>)</p>
+	  Inside the church (credit unknown! This is the Canadian blogger who went to the village. If you are her or know her, please <a href="/contact">contact me!</a>)</p>
 <p>
 <img src="{{ site.baseurl }}/assets/images/wwi.jpg" style="width:100%"/>
 	  Church damaged after WWI (<a href="https://uk.wikipedia.org/w/index.php?curid=4156116">Wikipedia</a>).</p>
